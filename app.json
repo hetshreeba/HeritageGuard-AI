@@ -1,0 +1,23 @@
+{
+  "name": "HeritageGuard AI",
+  "version": "1.0.0",
+  "description": "Agentic AI Digital Twin for Heritage Conservation, Smart Tourism and Visitor Management",
+  "project": "HeritageGuard AI",
+  "technology": [
+    "IBM Granite",
+    "IBM Cloud",
+    "Langflow",
+    "Agentic AI",
+    "RAG"
+  ],
+  "features": [
+    "Live heritage detection",
+    "Personalized heritage guidance",
+    "Multilingual storytelling",
+    "Visitor flow management",
+    "Structural health monitoring",
+    "Tourist photo to conservation intelligence",
+    "Encroachment and physical change detection",
+    "Digital twin dashboard"
+  ]
+}
